@@ -1,0 +1,102 @@
+body{
+background-color:plum;
+}
+
+h1{
+text-align:center;
+background-color:yellow;
+color:black;
+padding:20px;
+font-size:30px;
+border-radius: 30px;
+      
+
+}
+
+.div3{
+	  list-style-type:none;
+	 margin-top:100px;
+	 	 margin-left:300px;
+		
+	 }
+.div4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul{
+list-style-type:none;
+color: black;
+}
+
+.ul1{
+list-style-type:none;
+
+color: white;
+}
+
+.li1{
+margin-right:50px;
+margin-top:60px;
+color: white;
+
+}
+
+.div1{
+
+text-align:center;
+background-color:yellow;
+padding:5px;
+font-size:20px;
+border-radius:20px;
+margin-top:20px;
+margin-left: 20px;
+width:20%;
+height:70%;
+float:left;
+color: white;
+}
+.li4{
+    color: black;
+}
+   .div5{
+       
+   height:200px;
+   border-radius:40px;
+   color:black;
+   margin-left: 70px;
+   float:left;
+   margin-top:20px;
+   
+   width:200px;
+  
+   }
+   .img1{
+       border-radius: 50px;
+       
+   }
+    .div6{
+       
+   height:200px;
+   border-radius:40px;
+   color:black;
+   margin-left: 140px;
+   float:left;
+   margin-top:20px;
+   
+   width:200px;
+  
+   }
+   
+    .div7{
+       
+   height:200px;
+   border-radius:40px;
+   color:black;
+   margin-left: 180px;
+   float:left;
+   margin-top:20px;
+   
+   width:200px;
+  
+   }
